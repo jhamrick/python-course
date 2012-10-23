@@ -1,0 +1,37 @@
+Classes
+
+  - constructor
+  - object instance vs. class
+
+example: pets.py
+exercise: create the Parrot class
+
+  - builtins ( http://www.rafekettler.com/magicmethods.html )
+
+example: typed_dictionary.py
+example: fibonacci.py
+exercise: uniform.py
+
+  - monkeypatching (variables)
+  - monkeypatching (methods)
+
+example: monkeypatching.py
+
+  - properties
+
+example: properties.py
+
+  - decorators (special decorators: property, classmethod, staticmethod)
+
+example: decorators.py
+exercise: update the Uniform class to use properties
+
+
+Strings
+  - formatting operations
+
+   %s, %d, %f
+
+   %03f-- round to three decimals
+   % d -- leave a space if it's a positive number (so negatives and positives
+     line up correctly)
